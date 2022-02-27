@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The dissolution of the Parliament in Scotland Novemb. 19, 1641. After a sweet sympathy, and agreement betwixt the King and his subiects, in the setling of all affaires, as well ecclesiasticall as civill, in that kirke and kingdome. With an act of Parliament ordaining the whole subiects and lieges of that kingdome to obey, maintaine, and defend the conclusions, acts and constitutions of this last session of Parliament, and to subscribe the band appointed for that effect. Wherein is declared the illegall practices of Iohn, Earl of Traquair, by breaking up their former Parliament, anno, 1639, ere any thing was accomplished. Together with a true copy of the band, as it was subscribed by the noble-men, barons, burgesses, and others of this last Parliament, in justification thereof.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81553</idno>
+            <idno type="STC">Wing D1690</idno>
+            <idno type="STC">Thomason E177_7</idno>
+            <idno type="STC">ESTC R17809</idno>
+            <idno type="EEBO-CITATION">99860273</idno>
+            <idno type="PROQUEST">99860273</idno>
+            <idno type="VID">112391</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81553)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112391)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 31:E177[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The dissolution of the Parliament in Scotland Novemb. 19, 1641. After a sweet sympathy, and agreement betwixt the King and his subiects, in the setling of all affaires, as well ecclesiasticall as civill, in that kirke and kingdome. With an act of Parliament ordaining the whole subiects and lieges of that kingdome to obey, maintaine, and defend the conclusions, acts and constitutions of this last session of Parliament, and to subscribe the band appointed for that effect. Wherein is declared the illegall practices of Iohn, Earl of Traquair, by breaking up their former Parliament, anno, 1639, ere any thing was accomplished. Together with a true copy of the band, as it was subscribed by the noble-men, barons, burgesses, and others of this last Parliament, in justification thereof.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Thomason copy imperfect: significant show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Traquair, John Stewart, --  Earl of, d. 1659 --  Early works to 1800.</term>
+               <term>Scotland. --  Parliament. --  Early works to 1800.</term>
+               <term>Scotland --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112391:1"/>
+            <pb facs="tcp:112391:1" rendition="simple:additions"/>
+            <p>THE DISSOLUTION Of The PARLIAMENT IN SCOTLAND <hi>Novemb.</hi> 19. 1641.</p>
+            <p>After a ſweet Sympathy, and agreement be<g ref="char:EOLhyphen"/>twixt the KING and his Subiects, in the ſetling of all Affaires, as well Eccleſiaſticall as Civill, in that Kirke and Kingdome.</p>
+            <p>With an Act of Parliament ordaining the whole ſubiects and Lieges of that Kingdome to obey, maintaine, and defend the concluſions, Acts and Conſtitutions of this laſt Seſſion of Parliament, and to ſubſcribe the band appointed for that effect.</p>
+            <p>Wherein is declared the illegall practices of <hi>Iohn,</hi> Earle of <hi>Tra<g ref="char:EOLhyphen"/>quair,</hi> by breaking up their former Parliament, Anno, 1639, ere any thing was accompliſhed.</p>
+            <p>Together with a true Copy of the Band, as it was ſubſcribed by the Noble-men, Barons, Burgeſſes, and others of this laſt Par<g ref="char:EOLhyphen"/>liament, in Juſtification thereof.</p>
+            <p>London, Printed for John Wright. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112391:2"/>
+            <pb n="1" facs="tcp:112391:2"/>
+            <head>THE DISSOLU<g ref="char:EOLhyphen"/>TION OF THE LAST PARLIAMENT</head>
+            <opener>
+               <dateline>
+                  <date>Novemb. 19. 1641.</date>
+               </dateline>
+            </opener>
+            <p>In the Parliament holden at <hi>Edinburgh,</hi> the eleventh day of <hi>Iun.</hi> 1640 yeares the Eſtates of Parliament Preſently conveened, by his Majeſties ſpeciall authority, Conſidering that whereas, after many petitions and ſupplycations given in and preſently to his Majeſtie, and the Lords of his ſecret councell, by divers of the No<g ref="char:EOLhyphen"/>bility, Barrons, and Burgeſſes of this Kingdome, for granting a free Generall Aſſembly, and Parliament, for reforming of many great abuſes, and novations, tending to the overthrow of the true reformed Religion, and undoing of this Kirk. and Kingdom de<g ref="char:EOLhyphen"/>viſed and brought in by the late pretended Biſhops, who by their ſubtile practiſes, during his Majeſties abſence, thir many years, had iugroſt in their perſons all the Eccleſiaſtick, and civill power of this his Maieſties ancient and native Kingdome, it was gran<g ref="char:EOLhyphen"/>ted by his Majeſtie, out of his Royall Iuſtice, and accorded by the Articles of pacification, madeat his Majeſties Camp in the moneth
+<pb n="2" facs="tcp:112391:3"/>of Jun. 1639 yeares, laſt paſt, that a free generall aſſembly, and Parliament, ſhould be indicted by his Majeſty, and that all matters Eccleſiaſticall ſhould bee determined by the aſſemblies of the Kirke: and matters civill, by Parliaments, and other inferiour Iudicatories, eſtabliſht by Law, and that according thereunto, his Majeſtie did indict an Aſſembly to be held at <hi>Edinburgh,</hi> the twelfth of <hi>August,</hi> and a Parliament for ratifying the Concluſi<g ref="char:EOLhyphen"/>ons of the ſame Aſſembly, and ſetting downe ſuch other thing, as might conduce to the peace and good of the Kingdome, To be holden at <hi>Edinburgh</hi> the twenty fixt of Auguſt laſt by-paſt: in the which aſſembly, the matters concerning the purity of the true reformed Religion, and peace of this Kirke, after great debaite, delayes, and protracting of time, made by <hi>Iohn,</hi> Earle of <hi>Traquair</hi> his Majeſties Commiſſioner, being at length concluded upon the <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> day of <hi>Auguſt,</hi> 1639 yeares, The Parliament ſitting downe immediately thereafter, upon the penult day of the ſaid month of <hi>August</hi> the ratifications of the Concluſions of the ſame aſſembly and many other matters of great importance, conducing neceſſarly to the ſetling of the peace, of this Kingdome, being proponed in Parliament, were like wayes ſhifted and delayed, and the cloſing of the Parliament, protracted from time to time, unto the <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> day of <hi>November,</hi> laſt by paſt: at the which time, the ſaid <hi>John</hi> Earle of <hi>Traquaire</hi> did take upon him without the conſent of the Eſtates, to prorogat the foreſaid Parliament to the ſecond day of <hi>Iune</hi> inſtant, not onely contrary to the Articles of pacification, but alſo to the prejudice of the Liberties of the Parliament, for preſervation whereof, the ſaid Eſtates were forced to make a declaration in Parliament againſt the ſame: And that albeit ſince the ſaid <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> day of <hi>November,</hi> unto this time, the ſaid Eſtates have vſed all poſſible meanes to give his Majeſty full ſatisfaction both by their peaceable carriage at home, and by ſending their Commisſioners, to acquaint his Majeſty with all their juſt de<g ref="char:EOLhyphen"/>ſires, and the reaſons thereof, yet they have not onely received no anſwer, but upon the contrary have bin condemned as Rebelli<g ref="char:EOLhyphen"/>ous, without hearing: and our Commisſioners, ſent for cleering thereof, all reſtrained in private houſes for a long time, and <hi>Iohn</hi> Lord <hi>Lowdoun,</hi> being one of them, committed to the Tower, where he is ſtill detained priſoner.</p>
+            <pb n="3" facs="tcp:112391:3"/>
+            <p> The Caſtles of <hi>Edemburgh,</hi> and <hi>Dunbertane</hi> have in meane time beene fortified and provided with all ſort of Ammunition, in great abundance, and Gariſons of Souldiers, (not being natives of this Kingdome) put therein; the Gariſon in the Caſtle of <hi>Eden<g ref="char:EOLhyphen"/>burgh,</hi> daily killing diverſe of the inhabitants of this City, and ſpoyling their houſes with Muſquets and great Ordinance, all ſhips belonging to this Kingdome arreſted in <hi>England,</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and many of them comming from other places, layed wait for, and taken by the way, their owners and paſſengers ſpoyled of their goods, and apparell, layed in the yrons, and barbarouſly abuſed: A Commiſſion granted to the Generall of the Engliſh forces by ſea and land, to kill, deſtroy, and ſubdue this whole na<g ref="char:EOLhyphen"/>tion, a Printed Declaration put forth, denouncing warre againſt it, perſwading, exhorting, and provoking the other two King<g ref="char:EOLhyphen"/>domes to grant ſubſidies, and take Armes againſt the inhabitants of this Kingdome as traitours and rebels: And the Parliament of <hi>Ireland</hi> hath proceeded ſo farre as to declare them to be ſuch: All which they have hitherto endured patiently, and thereby given an evident demonſtration to the world of the loyalty of their af<g ref="char:EOLhyphen"/>fections to their Soveraigne, which no extremity ſhall ever make them to forget: And now being preſt by the preſent exigence of the Eſtate of this Kingdome, and bound by the neceſſity of that naturall duety they ought to themſelves and their poſterity, to provide for the ſafety of the Common-wealth, and their owne, and timouſly to prevent the utter ruine of this Nation, which can no longet ſubſiſt under ſo great a burden, that time appointed being come, to the which the Parliament was prorogat, and no advertiſement come from his Majeſty to them anent any courſe to be taken, for redeeming of the great diſorders, they being the great Councell of the Kingdome could not be altogether ſo for<g ref="char:EOLhyphen"/>getfull of themſelves, and decident to their Countrey, as to ſuffer this Parliament which they had ſo often petitioned from his Majeſty, which was conditioned and accorded by the ſaid Arti<g ref="char:EOLhyphen"/>cles of Pacification, and inflicted by his Majeſties Authority, to be deſerted and expyred without any concluſion to the good of the Common-wealth in ſo great extremity: But rather thought themſelves bound in conſcience and duty to proceed to the deter<g ref="char:EOLhyphen"/>mination of ſuch matters as are neceſſary for the eſtabliſhing of
+<pb n="4" facs="tcp:112391:4"/>the peace of this Kirk and Kingdome, as being the expreſſe and ſpeciall ends of all their Supplications, and agreeable to the ſaids Articles of Pacification, without tri<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ching any wayes on Sove<g ref="char:EOLhyphen"/>raigntie, or derogating in any ſort from his Majeſties Royall Au<g ref="char:EOLhyphen"/>thority, but on the contrary, onely looking firſt upon the conſti<g ref="char:EOLhyphen"/>tutions of the generall Aſſembly, p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt in preſence of his Majeſties Commiſſioner, and the neceſſar conſequences thereof, and then providing remedies for the preſent evils of the Kingdome, by re<g ref="char:EOLhyphen"/>moving the cauſe, and eſtabliſhing neceſſar concluſions for pre<g ref="char:EOLhyphen"/>venting the like hereafter: In doing whereof as they have procee<g ref="char:EOLhyphen"/>ded uprightly in the way of Juſtice, and with due reverence, and regard to his Majeſties Authority, and thereby have hopped the calumnious mouthes of their adverſaries, ſo they reſt aſſured, that his Majeſty after due examination of their proceedings, finding the ſame agreeable to the fundamentall lawes and cuſtom<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of this his ancient and native Kingdome, and no wayes repugnant to Monarchiall government, will out of his Royall Juſtice and good<g ref="char:EOLhyphen"/>neſſe give his full conſent thereunto; And thereby totally remo<g ref="char:EOLhyphen"/>ving and extinguiſhing all ground and occaſion of contraverſie a<g ref="char:EOLhyphen"/>gainſt his faithfull and loyall Subjects, reſtore this Kingdome to a perfect and ſolide peace, which they pray the Lord put in his Ma<g ref="char:EOLhyphen"/>jeſties Royall Heart, that he may long and proſperouſly reigne o<g ref="char:EOLhyphen"/>ver them And on the other part, conſidering from by gone expe<g ref="char:EOLhyphen"/>rience how malicious and diligent their adverſaries will be to calumniat theſe their proceedings, and by their ſuggeſtions to the Kings Majeſty, and to the Lieges, to kindle and intertaine facti<g ref="char:EOLhyphen"/>ons and diviſions there anent, and how neceſſar it is for the ſafety and peace of this Kirk and Kingdome, that the Members of both doe unanimouſly with heart and hand teſtifie by their ſubſcripti<g ref="char:EOLhyphen"/>on their reſolution, and Obligation to acknowledge this Parlia<g ref="char:EOLhyphen"/>ment ſo often deſired by their petitions and ſupplications, and conveened by his Majeſties ſolemne indiction, according to the Articles of Pacification, to be a free, lawfu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l, and neceſſary Parli<g ref="char:EOLhyphen"/>ament, and to obey, obſerve, and maintaine the ſame for them<g ref="char:EOLhyphen"/>ſelves conſtantly and faithfully, and to the uttermoſt of their power, to joyne and concurre, in their ſeverall ſtations and cal<g ref="char:EOLhyphen"/>lings, with others to advance, further, and aſſiſt the execution, obedience, and obſerving of the Acts and conſtitu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions of this pre<g ref="char:EOLhyphen"/>ſent
+<pb n="5" facs="tcp:112391:4"/>Parliament, as the moſt fit and neceſſary remedies of the by<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>one and preſent evils and diſtractions of this Kirk and King<g ref="char:EOLhyphen"/>dome, and for preſervation of the Religion, lawes and liberties thereof, and of his Majeſties Authority, and that in the firſt Par<g ref="char:EOLhyphen"/>liament which ſhall be holden hereafter within this Kingdome, and at all other occaſions, againſt any oppoſition whatſoever, ex<g ref="char:EOLhyphen"/>cept in ſo farre as ſhall hereafter be thought fit and expedient by the common adviſe and conſent of the Eſtates: They have ordai<g ref="char:EOLhyphen"/>ned and ordaines the Band under-written, to be ſubſcribed by all the Members of Parliament preſent and abſent, and by Noble<g ref="char:EOLhyphen"/>men, Barons, Burgeſſes, and all other Subjects and inhabitants of the Kingdome, in their Shyres, and Burghs, as they ſhall be di<g ref="char:EOLhyphen"/>rected by the Commiſſioners of Parliament left at <hi>Edinburgh,</hi> and to be reported to the Clerke, betwixt and the firſt day of <hi>Septem<g ref="char:EOLhyphen"/>ber</hi> nixt, with certification, that ſuch as refuſe or poſt-pone, and delay to ſubſcribe to ſame, ſhall be holden as Enemies and Oppo<g ref="char:EOLhyphen"/>ſits to the common Cauſe, conſiſting in the maintenance of the true reformed Religion, and of the lawes, and liberties of this Kingdome, and his Majeſties Authority.</p>
+            <p>VVEe Noblemen, Barons, Burgeſſes, and others, under<g ref="char:EOLhyphen"/>ſubſcribers, conſidering how neceſſary it is to eſtabliſh our Union in the preſervation, and maintenance of the Religion, Lawes, and Liberties of this Kingdome, and of his Majeſties Au<g ref="char:EOLhyphen"/>thority, and to prevent all factions, contentions, and diviſions, which may ariſe in prejudice thereof, from malicious ſuggeſtions and miſ-informations of our adverſaries, doe all, and every one of us with our heart and hand teſtifie and declare our Reſolution and Obligation, (for the reaſons and cauſes at length expreſt in the Act of Parliament immediatly preceeding) to acknowledge the aforeſaid Parliament to have beene and to be a free and lawfull Parliament, Likewiſe wee bind and obliſh us, and every one of us upon our honours and credit, and as we deſire to be, and to be holden true lovers of our Countrey, and of the Religion, lawes, and liberties thereof effauldly and faithfully to the uttermoſt of our power, to joyne and concurre with our perſons and eſtates every one of us according to our ſeveral ſtations &amp; callings, in the maintenance of the freedome and lawfulneſſe of the aforeſaid
+<pb n="6" facs="tcp:112391:5"/>Parliament, and in the advancement, further<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce, and aſſiſtan<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of the execution, obedience, and obſervation of the Acts and con<g ref="char:EOLhyphen"/>ſtitutions thereof, as the moſt fit and neceſſary remedies of the by gone and preſent evils and diſtractions of this Kirk and King<g ref="char:EOLhyphen"/>dome, and for the preſervation of Religion, lawes, and liberties thereof, and of his Majeſties Authority, and that in the firſt Par<g ref="char:EOLhyphen"/>liament, which ſhall be holden hereafter within this Kingdome, and at all other occaſions, and againſt any oppoſition whatſoever, except in ſo far as ſhall be hereafter thought fit and expedient, by the common adviſe and conſent of the Eſtates: In witneſſe where<g ref="char:EOLhyphen"/>of we have ſigned and ſubſcribed theſe preſents with our hands, At, <hi>&amp;c.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
